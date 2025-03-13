@@ -21,6 +21,7 @@
 
         #master-container {
             height: 39.5rem;
+            width: 200px;
         }
 
         #Hero {
